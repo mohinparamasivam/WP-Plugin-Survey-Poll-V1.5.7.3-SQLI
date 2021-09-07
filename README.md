@@ -1,5 +1,5 @@
 # WP-Plugin-Survey-Poll-V1.5.7.3-SQLI
-## Sql Injection in Cookie wp_sap
+## Sql Injection in Cookie wp_sap (reflected at ssm_parameter)
 
 <h4> Discovery : https://www.exploit-db.com/exploits/45411 </h4>
 <h4> Exploit DB Link : </h4>
