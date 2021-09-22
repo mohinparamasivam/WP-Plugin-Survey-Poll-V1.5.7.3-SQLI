@@ -6,7 +6,7 @@
 
 <h3> Usage : python3 wp-survey-poll_exploit.py -u `URL` </h3>
 
-![alt text](https://github.com/mohinparamasivam/WP-Plugin-Survey-Poll-V1.5.7.3-SQLI/blob/main/sentry_exploit.png?raw=true)      
+![alt text](https://github.com/mohinparamasivam/WP-Plugin-Survey-Poll-V1.5.7.3-SQLI/blob/1f57aa1eea8c1e29ac1ac518fd1369877bde654b/usage.png)      
  
 # Dependencies
 
